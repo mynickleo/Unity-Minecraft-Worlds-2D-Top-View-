@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: 
+    guid: 066a67d6a25fe514faca0168c98bb636
+  - enabled: 1
+    path: Assets/Scenes/GameMenu.unity
+    guid: 56c23e8a566241b4d8356cd05a4b518c
+  - enabled: 0
+    path: Assets/Scenes/Main.unity
+    guid: c1b19e388328e11499fc52a797959848
+  - enabled: 0
+    path: 
+    guid: e086bc32f473e5e43b922c48bc73a155
+  - enabled: 1
+    path: Assets/Scenes/Minecraft_Worlds2D.unity
+    guid: 5082a7aa38b31de41a3f4b09a37b7da1
+  - enabled: 1
+    path: Assets/Scenes/Minecraft_Worlds2D_Cave.unity
+    guid: feaa53e8ebf443449a09a55ce972a492
+  - enabled: 1
+    path: Assets/Scenes/Minecraft_Worlds2D_Boss.unity
+    guid: 8c079ce302e7fc34296cafead59b340a
+  - enabled: 1
+    path: Assets/Scenes/GameEnd.unity
+    guid: 5408d250e7e16e34aa4100aa16ca1166
+  m_configObjects: {}

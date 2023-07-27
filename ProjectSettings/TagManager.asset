@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Blocks
+  - Water
+  - UI
+  - 
+  - Mobs
+  - Blocking
+  - Actor
+  - Chest
+  - Tilemap
+  - Cursor
+  - 
+  - UI_Image
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Block_Layer_1
+    uniqueID: 426701887
+    locked: 0
+  - name: Block_Layer_Sand
+    uniqueID: 410551783
+    locked: 0
+  - name: Block_Layer_Decor
+    uniqueID: 2045578841
+    locked: 0
+  - name: Block_Layer_2
+    uniqueID: 1289025783
+    locked: 0
+  - name: mobs
+    uniqueID: 79108007
+    locked: 0
+  - name: mobs_interactable
+    uniqueID: 1793713375
+    locked: 0
+  - name: Block_Layer_Trees
+    uniqueID: 1140664407
+    locked: 0
+  - name: 'Interactable '
+    uniqueID: 1558866117
+    locked: 0
+  - name: Actor
+    uniqueID: 3461925027
+    locked: 0
+  - name: Clothes
+    uniqueID: 1888134709
+    locked: 0
+  - name: Block_Layer_Water
+    uniqueID: 1647173075
+    locked: 0
+  - name: UI
+    uniqueID: 3051142311
+    locked: 0
+  - name: UI_Cell
+    uniqueID: 509131053
+    locked: 0
+  - name: UI_Image
+    uniqueID: 3791003159
+    locked: 0
